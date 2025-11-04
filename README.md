@@ -28,7 +28,7 @@ Open-source **AI/ML projects**—especially those integrating **LLMs, chat APIs,
 🔗 [LinkedIn](https://www.linkedin.com/in/benaboud/) | 📧 [Email](mailto:malik@example.com)
 
 👨‍💻 **All of my projects are available at**
-📂 [GitHub](https://github.com/malik-ben) | 🌐 [Portfolio](https://malikbenaboud.com)
+📂 [GitHub](https://github.com/malik-ben)
 
 📄 **Want my resume?**
 Just ask—I’ll send it faster than a `console.log('Hello World')`.
