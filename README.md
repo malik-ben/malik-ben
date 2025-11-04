@@ -25,7 +25,7 @@ Open-source **AI/ML projects**, especially those integrating **LLMs, chat APIs, 
 - **Cloud architectures** (AWS, CI/CD, and the magic of automation)
 
 📫 **How to reach me**
-🔗 [LinkedIn](https://www.linkedin.com/in/benaboud/) | 📧 [Email](mailto:malik@example.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/benaboud/)
 
 👨‍💻 **All of my projects are available at**
 📂 [GitHub](https://github.com/malik-ben)
