@@ -36,7 +36,8 @@ Open-source **AI/ML projects**, especially those integrating **LLMs, chat APIs, 
 📂 [GitHub](https://github.com/malik-ben)
 
 📄 **Know about my experiences**
-📄 [Resume] reach out to me and I will be happy to share it with you. 
+
+📄 For my resume reach out to me and I will be happy to share it with you. 
 ---
 
 ### **⚡ Fun Fact**
