@@ -100,10 +100,6 @@ I speak 5 languages fluently, but my computer speaks even more (Python, JavaScri
   </a>
 </p>
 
----
-
-### **📊 GitHub Stats**
-*(Optional: Add your GitHub stats or streak cards here using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*
 
 ---
 
