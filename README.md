@@ -8,7 +8,7 @@
 Cutting-edge **AI projects** using **open-source LLMs** and **agentic frameworks** to build intelligent, autonomous systems. My mission? **Scalable AI solutions** that redefine automation, NLP, and human-AI collaboration.
 
 👯 **I’m looking to collaborate on**
-Open-source **AI/ML projects**—especially those integrating **LLMs, chat APIs, or IoT**. Let’s build something groundbreaking!
+Open-source **AI/ML projects**, especially those integrating **LLMs, chat APIs, or IoT**. Let’s build something groundbreaking!
 
 🌱 **I’m currently learning**
 - **Advanced Prompt Engineering** (because AI deserves better conversations)
